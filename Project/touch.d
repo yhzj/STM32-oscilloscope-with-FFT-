@@ -1,0 +1,12 @@
+touch.o: ..\code\touch.c
+touch.o: ..\code\touch.h
+touch.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+touch.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+touch.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h
+touch.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+touch.o: ..\code\stm32f10x_conf.h
+touch.o: ..\Libraries\inc\stm32f10x_gpio.h
+touch.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+touch.o: ..\Libraries\inc\stm32f10x_rcc.h
+touch.o: ..\Libraries\inc\misc.h
+touch.o: ..\Libraries\inc\stm32f10x_spi.h

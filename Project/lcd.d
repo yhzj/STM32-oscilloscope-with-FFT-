@@ -1,0 +1,12 @@
+lcd.o: ..\code\LCD.c
+lcd.o: ..\Libraries\inc\stm32f10x_gpio.h
+lcd.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+lcd.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+lcd.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h
+lcd.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+lcd.o: ..\code\stm32f10x_conf.h
+lcd.o: ..\Libraries\inc\stm32f10x_gpio.h
+lcd.o: ..\Libraries\inc\stm32f10x_rcc.h
+lcd.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+lcd.o: ..\Libraries\inc\misc.h
+lcd.o: ..\code\LCD.h

@@ -1,0 +1,12 @@
+fft.o: ..\code\fft.c
+fft.o: ..\code\fft.h
+fft.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+fft.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+fft.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h
+fft.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+fft.o: ..\code\stm32f10x_conf.h
+fft.o: ..\Libraries\inc\stm32f10x_gpio.h
+fft.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+fft.o: ..\Libraries\inc\stm32f10x_rcc.h
+fft.o: ..\Libraries\inc\misc.h
+fft.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\math.h

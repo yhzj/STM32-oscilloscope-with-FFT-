@@ -1,0 +1,38 @@
+*** Creating Trace Output File 'SD.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"system_stm32f10x.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f10x_gpio.o"'
+### List of Objects: adding '"stm32f10x_rcc.o"'
+### List of Objects: adding '"stm32f10x_spi.o"'
+### List of Objects: adding '"stm32f10x_usart.o"'
+### List of Objects: adding '"stm32f10x_adc.o"'
+### List of Objects: adding '"stm32f10x_exti.o"'
+### List of Objects: adding '"stm32f10x_tim.o"'
+### List of Objects: adding '"stm32f10x_dma.o"'
+### List of Objects: adding '".\startup_stm32f10x_cl.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"stm32f10x_it.o"'
+### List of Objects: adding '"ini.o"'
+### List of Objects: adding '"lcd.o"'
+### List of Objects: adding '"touch.o"'
+### List of Objects: adding '"fft.o"'
+### List of Objects: adding '".\cr4_fft_1024_stm32.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "core_cm3.o" "system_stm32f10x.o" "misc.o" "stm32f10x_gpio.o" "stm32f10x_rcc.o" "stm32f10x_spi.o" "stm32f10x_usart.o" "stm32f10x_adc.o" "stm32f10x_exti.o" "stm32f10x_tim.o" "stm32f10x_dma.o" ".\startup_stm32f10x_cl.o" "main.o" "stm32f10x_it.o" "ini.o" "lcd.o" "touch.o" "fft.o" ".\cr4_fft_1024_stm32.o" 
+--strict --scatter "SD.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\SD.map" -o SD.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'SD.axf'
+### ADS-LD Command File: 'SD.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'SD.lnp', Handle=0x00000480
+### Writing '.lnp' file
+### ADS-LD Command file 'SD.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

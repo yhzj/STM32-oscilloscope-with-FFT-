@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code 
+-I D:\soft\ARM\ARM\RV31\INC 
+-I D:\soft\ARM\ARM\CMSIS\Include 
+-I D:\soft\ARM\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "play.o" --omf_browse "play.crf" --depend "play.d" "..\code\play.c"

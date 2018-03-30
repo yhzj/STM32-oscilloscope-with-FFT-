@@ -1,0 +1,12 @@
+pwm.o: ..\code\pwm.c
+pwm.o: ..\code\pwm.h
+pwm.o: ..\Libraries\inc\stm32f10x_tim.h
+pwm.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+pwm.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+pwm.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h
+pwm.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+pwm.o: ..\code\stm32f10x_conf.h
+pwm.o: ..\Libraries\inc\stm32f10x_gpio.h
+pwm.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+pwm.o: ..\Libraries\inc\stm32f10x_rcc.h
+pwm.o: ..\Libraries\inc\misc.h

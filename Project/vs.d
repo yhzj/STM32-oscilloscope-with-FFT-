@@ -1,0 +1,12 @@
+vs.o: ..\code\VS.c
+vs.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+vs.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+vs.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h
+vs.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+vs.o: ..\code\stm32f10x_conf.h
+vs.o: ..\Libraries\inc\stm32f10x_gpio.h
+vs.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+vs.o: ..\Libraries\inc\stm32f10x_rcc.h
+vs.o: ..\Libraries\inc\misc.h
+vs.o: ..\Libraries\inc\stm32f10x_spi.h
+vs.o: ..\code\vs.h

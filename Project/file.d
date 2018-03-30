@@ -1,0 +1,13 @@
+file.o: ..\code\file.c
+file.o: ..\code\mmc_sd.h
+file.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+file.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+file.o: D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h
+file.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+file.o: ..\code\stm32f10x_conf.h
+file.o: ..\Libraries\inc\stm32f10x_gpio.h
+file.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+file.o: ..\Libraries\inc\stm32f10x_rcc.h
+file.o: ..\Libraries\inc\misc.h
+file.o: ..\code\file.h
+file.o: ..\code\LCD.h
